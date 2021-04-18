@@ -1,0 +1,408 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.birinci{
+	background-color: #4492FF;
+	padding-bottom: 110px;
+}
+.resimbir{
+	margin-left: 973px;
+}
+.pbir{
+	font-size: 20px;
+	margin-left: 250px;
+	margin-top: -330px;
+	color: white;
+}
+.hbir{	
+	margin-left: 245px;
+	margin-top: 20px;
+	font-size: 40px;
+	color: white;
+  
+}
+.piki{
+	padding-bottom: 176px;
+	width: 600px;
+	font-size: 18px;
+	margin-left: 250px;
+	margin-top: 20px;
+	color: #C3EFFF;
+}
+.one{
+  margin-top: -160px;
+  margin-left: 250px;
+  background-color: #252625;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+}
+.two{
+  margin-top: -50px;
+  margin-left: 310px;
+  background-color: #252625;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+}
+.three{
+  margin-top: -50px;
+  margin-left: 370px;
+  background-color: #252625;
+  width: 50px;
+  height: 50px;
+  border-radius: 5px;
+}
+.ikinci{
+	margin-top: 80px;
+}
+.resimiki{
+	margin-top: 150px;
+	margin-left: 250px;
+}
+.püç{
+	font-weight: bold;
+	margin-top: -360px;
+	margin-left: 750px;
+}
+.pdört{
+	font-size: 20px;
+	margin-top: 20px;
+	margin-left: 750px;
+}
+.pbeş{
+	width: 600px;
+	margin-top: 20px;
+	margin-left: 750px;
+}
+.resimüç{
+	margin-top: 50px;
+	margin-left: 730px;
+}
+.üçüncü{
+	background-color: #344F73;
+	height: 700px;
+}
+.paltı{
+	margin-top: 50px;
+	padding-top: 50px;
+	margin-left: 550px;
+	font-size: 23px;
+	color: white;
+}
+.pyedi{
+	width: 380px;
+	margin-top: 20px;
+	margin-left: 550px;
+	font-size: 17px;
+	color: white;
+}
+.bbir{
+	border-top: 4px solid #31B5FF;
+	padding: 25px 25px;
+	margin-left: 550px;
+	width: 450px;
+	margin-top: 60px;
+	background-color: white;
+}
+.biki{
+	border-top: 4px solid #31B5FF;
+	padding: 25px 25px;
+	margin-left: 550px;
+	width: 450px;
+	margin-top: 30px;
+	background-color: white;
+}
+.büç{
+	border-top: 4px solid #31B5FF;
+	padding: 25px 25px;
+	margin-left: 550px;
+	width: 450px;
+	margin-top: 30px;
+	background-color: white;
+}
+.psekiz, .pdokuz, .pon{
+	font-weight: bold;
+}
+.pdokuzz{
+	color: white;
+	border-radius: 10px;
+	padding: 5px 35px;
+	background-color: red;
+	margin-top: -20px;
+	margin-left: 400px;
+}
+.hiki{
+	margin-left: 650px;
+	padding-top: 80px;
+}
+.resimdört{
+	margin-left: 330px;
+}
+.resimbeş{
+	margin-left: 15px;
+}
+.resimaltı{
+	margin-left: 15px;
+}
+.resimyedi{
+	margin-left: 330px;
+}
+.resimsekiz{
+	margin-left: 15px;
+}
+.resimdokuz{
+	margin-left: 15px;
+}
+.hikii{
+	margin-top: 50px;
+}
+.hikiii{
+	margin-top: 15px;
+}
+.beşinci{
+	background-color: #D9D9D9;
+	margin-top: 50px;
+	height: 550px;
+}
+.onbir{
+	margin-top: 70px;
+	margin-left: 330px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.abir{
+	margin-top: -40px;
+	margin-left: 400px;
+}
+.cbir{
+	color: #8697A6;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 400px;
+}
+.oniki{
+	margin-top: -115px;
+	margin-left: 630px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.aiki{
+	margin-top: -40px;
+	margin-left: 700px;
+}
+.ciki{
+	color: #8697A6;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 700px;
+}
+.onüç{
+	margin-top: -115px;
+	margin-left: 930px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.aüç{
+	margin-top: -40px;
+	margin-left: 1000px;
+}
+.cüç{
+	color: #8697A6;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 1000px;
+}
+.ondört{
+	margin-top: 80px;
+	margin-left: 330px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.adört{
+	margin-top: -40px;
+	margin-left: 400px;
+}
+.cdört{
+	color: #8697A6;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 400px;
+}
+.onbeş{
+	margin-top: -115px;
+	margin-left: 630px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.abeş{
+	margin-top: -40px;
+	margin-left: 700px;
+}
+.cbeş{
+	color: #8697A6;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 700px;
+}
+.onaltı{
+	margin-top: -115px;
+	margin-left: 930px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.aaltı{
+	margin-top: -40px;
+	margin-left: 1000px;
+}
+.caltı{
+	color: #8697A6;
+	width: 250px;
+	margin-top: 10px;
+	margin-left: 1000px;
+}
+.altıncı{
+	background-color: #344F73;
+	height: 140px;
+}
+.bb{
+	padding-top: 60px;
+	color: white;
+	margin-left: 500px;
+	font-size: 30px;
+}
+.but{
+	margin-top: -20px;
+}
+.button{
+	text-decoration: none;
+	font-size: 15px;
+	margin-left: 900px;
+	background-color: #3370FF;
+	padding: 15px 30px;
+	border-radius: 3px;
+	color: white;
+}
+.ccc{
+	color: #A6ABAB;
+	margin-top: 20px;
+	margin-left: 615px;
+}
+.onyedi{
+	margin-top: 60px;
+	margin-left: 380px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.onsekiz{
+	margin-top: -65px;
+	margin-left: 650px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.ondokuz{
+	margin-top: -40px;
+	margin-left: 920px;
+  	background-color: #344F73;
+  	width: 50px;
+  	height: 50px;
+  	border-radius: 100%;
+}
+.i{
+	margin-top: -50px;
+	margin-left: 480px;
+}
+.ii{
+	margin-top: -60px;
+	margin-left: 770px;
+}
+.iii{
+	margin-top: -60px;
+	margin-left: 1020px;
+}
+.ç{
+	width: 210px;
+	margin-top: 10px;
+	margin-left: 450px;
+}
+.çç{
+	margin-top: 10px;
+	margin-left: 720px;
+}
+.ççç{
+	margin-top: 10px;
+	margin-left: 1020px;
+}
+.name{
+	padding: 15px 50px;
+	margin-top: 130px;
+	margin-left: 470px;
+}
+.mail{
+	padding: 15px 50px;
+	margin-top: 60px;
+	margin-left: 60px;
+}
+.mess{
+	margin-top: 30px;
+	margin-left: 470px;
+	padding: 55px 213px;
+}
+.butt{
+	margin-top: 50px;
+}
+.buttton{
+	text-decoration: none;
+	font-size: 15px;
+	margin-left: 700px;
+	background-color: #3370FF;
+	padding: 15px 30px;
+	border-radius: 3px;
+	color: white;
+}
+.sekizinci{
+	margin-left: 620px;
+}
+.yirmi{
+	margin-top: 140px;
+	margin-left: 20px;
+	float: left;
+  	background-color: #A6ABAB;
+  	width: 35px;
+  	height: 35px;
+  	border-radius: 100%;
+}
+.pson{
+	margin-top: 110px;
+	margin-left: 630px;
+}
+.dokuzuncu{
+	background-color: #D9D9D9;
+	height: 180px;
+	padding-top: 30px;
+	margin-top: 70px;
+}
+
+
+
+
+
+
+

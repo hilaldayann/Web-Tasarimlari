@@ -1,0 +1,329 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+h1{
+	font-size: 90px;
+	margin-top: 130px;
+	margin-left: 450px;
+}
+p{
+	margin-top: 0px;
+	font-size: 28px;
+	font-weight: bold;
+	margin-left: 500px;
+}
+.button{
+	text-decoration: none;
+	font-size: 18px;
+	margin-left: 650px;
+	background-color: #1D809F;
+	padding: 25px 40px;
+	border-radius: 5px;
+	color: white;
+}
+.but{
+  padding-top: 50px;
+}
+.resim{
+	min-height: 31rem;
+  	position: relative;
+  	display: table;
+  	width: 100%;
+  	height: auto;
+  	padding-top: 8rem;
+  	padding-bottom: 8rem;
+  	background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url(bg-masthead.jpg);
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+h2{
+	font-size: 35px;
+	margin-top: 120px;
+	margin-left: 350px;
+}
+.cümle{
+	font-size: 19px;
+	margin-left: 370px;
+	margin-top: 20px;
+}
+.buttonn{
+	text-decoration: none;
+	font-size: 18px;
+	margin-left: 650px;
+	background-color: #3B3C40;
+	padding: 25px 40px;
+	border-radius: 5px;
+	color: white;
+}
+.butt{
+  padding-top: 80px;
+}
+.üçüncü{
+	background-color: #1D809F;
+	height: 550px;
+}
+.baslık{
+	font-size: 18px;
+	color: #ecb807;
+	padding-top: 110px;
+	margin-left: 715px;
+}
+.bass{
+	font-size: 40px;
+	color: white;
+	margin-top: 10px;
+	margin-left: 635px;
+}
+.üçüncü h3{
+	float: left;
+	margin-left: 210px;
+	margin-top: 180px;
+}
+.üçüncü h3 a{
+	text-decoration: none;
+	font-size: 25px;
+	color: white;
+}
+.üçüncü p{
+	font-size: 18px;
+	color: #B5F4FF;
+}
+.birr{
+	margin-top: 220px;
+	margin-left: 150px;
+}
+.ikii{
+    margin-top: -20px;
+	margin-left: 460px;
+}
+.üçç{
+	margin-top: -20px;
+	margin-left: 800px;
+}
+.dörtt{
+	margin-top: -20px;
+	margin-left: 1140px;
+
+}
+.dördüncü{
+    min-height: 30rem;
+  	position: relative;
+  	display: table;
+  	width: 100%;
+  	height: auto;
+  	padding-top: 8rem;
+  	padding-bottom: 8rem;
+  	background: linear-gradient(90deg, rgba(255, 255, 255, 0.1) 0%, rgba(255, 255, 255, 0.1) 100%), url(bg-callout.jpg);
+  	background-position: center center;
+  	background-repeat: no-repeat;
+  	background-size: cover;
+}
+.orta{
+	font-size: 60px;
+	width: 500px;
+	padding-top: 3px;
+	padding-left: 180px;
+	color: #262626;
+}
+.ortaa{
+	font-size: 60px;
+	width: 500px;
+	margin-top: 0px;
+	padding-left: 230px;
+	color: #262626;
+}
+.buttonnn{
+	text-decoration: none;
+	font-size: 18px;
+	margin-left: 630px;
+	background-color: #1D809F;
+	padding: 25px 40px;
+	border-radius: 5px;
+	color: white;
+}
+.buttt{
+  padding-top: 60px;
+}
+.baslıkk{
+	margin-top: 20px;
+	font-size: 16px;
+}
+.bas{
+	font-size: 45px;
+	margin-top: 10px;
+	padding-left: 270px;
+}
+.foto1{
+  margin-left: 60px;
+	width: 700px;
+  height: 465px;
+	background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(portfolio-1.jpg);
+}
+.foto2{
+  margin-top: -465px;
+  margin-right: 60px;
+  float: right;
+  width: 700px;
+  height: 465px;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(portfolio-2.jpg);
+}
+.foto3{
+  margin-left: 60px;
+  float: left;
+  width: 700px;
+  height: 465px;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(portfolio-3.jpg);
+}
+.foto4{
+  margin-right: 59.2px;
+  float: right;
+  width: 700px;
+  height: 465px;
+  background-image: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)),url(portfolio-4.jpg);
+}
+.hbir{ 
+  color: white;
+  padding-top: 350px;
+  font-size: 20px;
+  margin-left: 50px;
+}
+.pbir{
+  color: white;
+  width: 400px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.hiki{ 
+  color: white;
+  padding-top: 300px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.piki{
+  color: white;
+  width: 400px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.hüç{ 
+  color: white;
+  padding-top: 300px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.püç{
+  color: white;
+  width: 400px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.hdört{ 
+  color: white;
+  padding-top: 300px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 50px;
+}
+.pdört{
+  color: white;
+  width: 400px;
+  font-size: 20px;
+  margin-left: 50px;
+  margin-top: 20px;
+}
+.altıncı{
+  margin-top: 600px;
+  background-color: #1D809F;
+  height: 360px;
+}
+.hbeş{
+  color: white;
+  padding-top: 110px;
+  font-size: 33px;
+  padding-left: 80px;
+}
+.bott{
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 550px;
+  background-color: white;
+  padding: 25px 40px;
+  border-radius: 5px;
+  color: black;
+}
+.bot{
+  padding-top: 80px;
+}
+.batt{
+  text-decoration: none;
+  font-size: 18px;
+  margin-left: 750px;
+  background-color: #3B3C40;
+  padding: 25px 40px;
+  border-radius: 5px;
+  color: white;
+}
+.bat{
+  margin-top: -21px;
+}
+.img{
+  width: 100%;
+  height: auto;
+   background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
+.one{
+  margin-top: 100px;
+  margin-left: 630px;
+  background-color: #1D809F;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+.two{
+  margin-top: -70px;
+  margin-left: 730px;
+  background-color: #1D809F;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+.three{
+  margin-top: -70px;
+  margin-left: 830px;
+  background-color: #1D809F;
+  width: 70px;
+  height: 70px;
+  border-radius: 100%;
+}
+.son{
+  margin-bottom: 50px;
+  margin-left: 660px;
+  margin-top: 60px;
+  font-size: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

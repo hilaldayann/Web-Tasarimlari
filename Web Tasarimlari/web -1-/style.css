@@ -1,0 +1,158 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+.aa{
+  height: 70px;
+  background-color: rgba(0, 0, 0, 0.9);
+  color: white;
+}
+.aa ul{
+  padding-left: 1210px;
+}
+.aaa ul li{ 
+  margin-top: -12px;
+  margin-right: 35px;
+  float: left;
+  display: block;
+}
+.aaa ul li a{ 
+  text-decoration: none; 
+  color: #A6ABAB;
+}
+h1{
+  padding-left: 208px;
+  padding-top: 25px;
+  font-size: 25px;
+}
+.bas{
+  background-image: linear-gradient(#ee0979, #ff6a00);
+  height: 690px;
+}
+.ust{
+  margin-top: 110px;
+  font-size: 110px;
+  margin-left: 180px;
+  color: white;
+}
+h2{
+  font-size: 60px;
+  margin-left: 445px;
+  color: white;
+}
+.button{
+  margin-left: 645px;
+  text-transform: uppercase;
+  background-color: #ee0979;
+  padding: 30px 50px;
+  color: white;
+  border-radius: 50px;
+  font-size: 19px;
+  text-decoration: none;
+}
+.but{
+  padding-top: 85px;
+}
+.bg-circle {
+  position: absolute;
+  border-radius: 100%;
+  background-image: linear-gradient(#ff6a00, #ee0979);
+}
+.bg-circle-1 {
+  height: 90rem;
+  width: 90rem;
+  bottom: -55rem;
+  left: -55rem;
+}
+.bg-circle-2 {
+  height: 50rem;
+  width: 50rem;
+  top: -25rem;
+  right: -25rem;
+}
+.bg-circle-3 {
+  height: 20rem;
+  width: 20rem;
+  bottom: -10rem;
+  right: 5%;
+}
+.bg-circle-4 {
+  height: 30rem;
+  width: 30rem;
+  top: -5rem;
+  right: 35%;
+}
+header.masthead {
+  position: relative;
+  overflow: hidden;
+  padding-top: calc(7rem + 42px);
+  padding-bottom: 7rem;
+  background: linear-gradient(0deg, #ff6a00 0%, #ee0979 100%);
+}
+header.masthead .masthead-content {
+  z-index: 1;
+  position: relative;
+}
+.bss{
+  width: 400px;
+  height: 70px;
+  margin-top: 150px;
+  margin-left: 280px;
+}
+.bsss{
+  width: 400px;
+  height: 70px;
+  margin-top: 100px;
+  padding-left: 900px;
+}
+.es{
+  width: 450px;
+  height: 70px;
+   margin-top: 500px;
+  padding-left: 30px;
+}
+.bssss{
+  width: 400px;
+  height: 70px;
+  margin-top: 120px;
+  margin-left: 280px;
+}
+h3{
+  font-size: 50px;
+}
+p{
+  font-size: 20px;
+}
+img{
+  height: 455px;
+  width: 450px;
+  border-radius: 100%;
+}
+.resim1{
+  float: right;
+  margin-right: 180px;
+  margin-top: -150px;
+}
+.ess{
+  margin-top: -270px;
+}
+.saa{
+  margin-top: 0px;
+}
+.resim2{
+  margin-top: -650px;
+  margin-left: 280px;
+}
+.resim3{
+  margin-top: -140px;
+  float: right;
+  margin-right: 180px;
+}
+.alt{
+  height: 90px;
+  background-color: black;
+  color: white;
+  padding-left: 630px;
+  margin-top: 350px;
+  padding-top: 60px;
+}

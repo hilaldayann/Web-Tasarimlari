@@ -1,0 +1,182 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.baslık ul li{
+	float: left;
+}
+.bir ul{
+	margin-left: 0px;
+}
+.bir li{
+	list-style-type: none;
+	margin-left: 30px;
+	margin-top: 35px;
+}
+.iki li{
+	list-style-type: none;
+	margin-left: 140px;
+	margin-right: 100px;
+	margin-top: 30px;
+}
+.üç li{
+	list-style-type: none;
+	margin-left: 30px;
+	margin-top: 35px;
+}
+.bir li a{
+	text-decoration: none;
+	color: #3D3D3D;
+}
+.iki li a{
+	text-decoration: none;
+	color: #001EBA;
+	font-size: 28px;
+	font-weight: bold;
+}
+.üç li a{
+	text-decoration: none;
+	color: #3D3D3D;
+}
+.resimbir{
+	float: left;
+}
+.aa{
+	margin-top: 230px;
+	margin-left: -1250px;
+	font-size: 65px;
+}
+.aaa{
+	margin-top: 20px;
+	margin-left: -1245px;
+	font-size: 23px;
+}
+.pbir{
+	margin-left: -1245px;
+	margin-top: 60px;
+	font-size: 14px;
+}
+.but{
+	margin-top: -15px;
+	margin-left: -1050px;
+	font-size: 14px;
+	list-style-type: none;
+}
+.resim1{
+	float: right;
+	margin-right: 100px;
+}
+.resim2{
+	margin-left: 180px;
+	margin-top: -320px;
+	float: left;
+}
+.bb{
+	padding-top: 730px;
+	margin-left: 900px;
+	font-size: 65px;
+}
+.bbb{
+	padding-top: 20px;
+	margin-left: 900px;
+	font-size: 20px;
+}
+.libir{
+	margin-left: 900px;
+	font-size: 14px;
+    margin-top: 40px;
+    list-style-type: none;
+}
+.liiki{
+	margin-top: -17px;
+	margin-left: 1120px;
+	font-size: 14px;
+	list-style-type: none;
+}
+.resim3{
+	margin-top: -330px;
+	float: right;
+	margin-right: 60px;
+}
+.cc{
+	margin-left: 80px;
+	margin-top: 400px;
+	font-size: 65px;
+}
+.ccc{
+	margin-left: 85px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.liüç{
+	margin-top: 30px;
+	margin-left: 85px;
+	list-style-type: none;
+	font-size: 14px;
+}
+.lidört{
+	margin-top: 30px;
+	margin-left: 85px;
+	list-style-type: none;
+	font-size: 14px;
+}
+.resim4{
+	margin-left: 70px;
+	margin-top: -400px;
+	float: left;
+	background-color: #D9D9D9;
+}
+.dd{
+	font-size: 65px;
+	margin-top: 300px;
+	margin-left: 930px;
+}
+.dd1{
+	font-size: 65px;
+	margin-top: 0px;
+	margin-left: 930px;
+}
+.ddd{
+	margin-left: 940px;
+	margin-top: 20px;
+	font-size: 20px;
+}
+.libeş{
+	margin-left: 940px;
+	margin-top: 30px;
+	list-style-type: none;
+	font-size: 14px;
+}
+.resim5{
+	margin-top: -340px;
+	float: right;
+}
+.ee{
+	font-size: 65px;
+	margin-top: 250px;
+	margin-left: 100px;
+	width: 100px;
+}
+.lialtı{
+	margin-left: 105px;
+	margin-top: 60px;
+	list-style-type: none;
+	font-size: 14px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
